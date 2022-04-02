@@ -1,0 +1,6 @@
+.image_1{
+    display:flex;
+    width:200px;
+    height:200px;
+    background-image: url(cat5.jpg);
+    background-size:200px 200px;
